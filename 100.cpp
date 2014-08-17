@@ -36,7 +36,7 @@ int main(int argc, char* argv[])
 			i++;	
 		}
 
-		cout << tmp_i << " " << tmp_j << " " << max_length;
+		cout << tmp_i << " " << tmp_j << " " << max_length << endl;
 	}
 
 	return 0;
